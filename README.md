@@ -1,4 +1,4 @@
-# LFA-grupo29
+# LFA-Grupo-29
 
 <h3>Repositório contendo os arquivos necessários para entrega do projeto de LFA quadrimestre 1-2024</h3>
 
